@@ -6,3 +6,7 @@
 body {
     width: 100%;
 }
+
+section {
+    padding: 4rem 0;
+}
